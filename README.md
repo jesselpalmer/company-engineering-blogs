@@ -5,4 +5,5 @@ A list of different company's engineering blogs
 [Facebook Engineering](https://engineering.fb.com/)  
 [Google Developers](https://developers.googleblog.com/)  
 [Instagram Engineering](https://instagram-engineering.com/)   
+[Pinterest Engineering](https://medium.com/@Pinterest_Engineering)  
 [YouTube Engineering and Developers Blog](https://youtube-eng.googleblog.com/)  
