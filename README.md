@@ -6,6 +6,7 @@ A list of different company's engineering blogs
 [GitHub Engineering](https://github.blog/category/engineering/)  
 [Google Developers](https://developers.googleblog.com/)  
 [Instagram Engineering](https://instagram-engineering.com/)   
+[LinkedIn Engineering](https://engineering.linkedin.com/blog)  
 [Netflix TechBlog](https://medium.com/netflix-techblog)  
 [Pinterest Engineering](https://medium.com/@Pinterest_Engineering)  
 [Slack Engineering](https://slack.engineering/)  
