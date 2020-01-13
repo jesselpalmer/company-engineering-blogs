@@ -11,4 +11,5 @@ A list of different company's engineering blogs
 [Pinterest Engineering](https://medium.com/@Pinterest_Engineering)  
 [Slack Engineering](https://slack.engineering/)  
 [Spotify Labs](https://labs.spotify.com/)  
+[Uber Engineering](https://eng.uber.com/)  
 [YouTube Engineering and Developers Blog](https://youtube-eng.googleblog.com/)  
