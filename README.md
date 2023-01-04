@@ -21,4 +21,3 @@ A list of different company's engineering blogs
 [Slack Engineering](https://slack.engineering/)  
 [Spotify Labs](https://labs.spotify.com/)  
 [Uber Engineering](https://eng.uber.com/)  
-[YouTube Engineering and Developers Blog](https://youtube-eng.googleblog.com/)  
