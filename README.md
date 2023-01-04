@@ -1,6 +1,8 @@
 # Company Engineering Blogs
 A list of different company's engineering blogs
 
+A list of their respective Twitter accounts can be found here: https://twitter.com/i/lists/1608895967641882624
+
 [Airbnb Engineering & Data Science](https://medium.com/airbnb-engineering)  
 [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)  
 [BlackRock Engineering](https://medium.com/blackrock-engineering)  
